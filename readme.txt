@@ -1,1 +1,1 @@
-This is a read me file for a fictional project.
+This is a readme file for a fictional project.
